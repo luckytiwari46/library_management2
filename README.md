@@ -2,18 +2,19 @@
 
 A comprehensive Library Management System built with PHP, HTML, CSS, JavaScript, jQuery, and Bootstrap. This system provides complete functionality for managing books, movies, memberships, and library transactions.
 ## Glimpses 
-![Screenshot (1)](https://github.com/user-attachments/assets/3000b9d0-6554-43e1-93c1-08df48aa3687)
-![Screenshot (2)](https://github.com/user-attachments/assets/3bf2369f-e435-4281-aaf4-f655a08ae269)
-![Screenshot (3)](https://github.com/user-attachments/assets/33da6587-b885-4b18-872d-b568bf525717)
-![Screenshot (4)](https://github.com/user-attachments/assets/36acac4c-b981-45c5-852e-b![Screenshot (5)](https://github.com/user-attachments/assets/6a09fcb1-252b-46ac-a849-59e1fbabd78f)
-3430a697704)
-![Screenshot 2025-09-23 230443](https://github.com/user-attachments/assets/7d2ead63-55a8-4e6d-8edc-2f74e66564c8)
-![Screenshot 2025-09-24 233932](https://github.com/user-attachments/assets/800a9d83-6611-4ee6-84be-0fbb42a9ad4e)
-![Screenshot 2025-09-24 234139](https://github.com/user-attachments/assets/74667794-6e38-4fce-85bd-e0ae318a6d56)
-![Screenshot 2025-09-24 234211](https://github.com/user-attachments/assets/e33fcb16-f8e2-40e0-b795-0dc7d0a6a62f)
-![Screenshot 2025-09-24 234236](https://github.com/user-attachments/assets/f3eb5b2d-ee13-49ae-9f50-46dd4a99bb2f)
+![Screenshot (1)](https://github.com/user-attachments/assets/ac3fe758-dce0-4794-9765-c063f7fa7510)
+![Screenshot (2)](https://github.com/user-attachments/assets/f22ce4ce-fc23-4dd0-a66d-![Screenshot (3)](https://github.com/user-attachments/assets/69af1a75-9fa4-4bd8-a97c-861ae11adf1b)
+bc7375d3e42c)
 
+![Screenshot (4)](https://github.com/user-attachments/assets/d4868ab3-ff77-4183-bbec-dd5f3ba85a70)
 
+![Screenshot (5)](https://github.com/user-attachments/assets/53126b38-41b1-4676-81e8-bbf155aef719)
+
+![Screenshot 2025-09-24 233932](https://github.com/user-attachments/assets/c5b819ba-4778-43f5-99c5-d337cdfcc1c4)
+![Screenshot 2025-09-24 234139](https://github.com/user-attachments/assets/b1cf399d-4671-40ab-97d4-eb669d30a96a)
+![Screenshot 2025-09-24 234152](https://github.com/user-attachments/assets/4c581a23-5671-4b53-9d1c-5f44a6389006)
+![Screenshot 2025-09-24 234211](https://github.com/user-attachments/assets/ab08f52f-0fcb-4c73-bdc9-73ce280d467c)
+![Screenshot 2025-09-24 234236](https://github.com/user-attachments/assets/5c51ddac-c27e-460b-8dfa-f37182975c02)
 
 ## Features
 
