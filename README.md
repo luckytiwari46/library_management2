@@ -1,6 +1,17 @@
 # Library Management System
 
 A comprehensive Library Management System built with PHP, HTML, CSS, JavaScript, jQuery, and Bootstrap. This system provides complete functionality for managing books, movies, memberships, and library transactions.
+## Glimpses 
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/6546aaa0-2ba2-460f-82fd-e503484bf3db" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/455da093-b7f4-4ee3-8c56-532d9374765c" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/6138942c-3d54-4bd5-8e07-1b0153848f80" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/3e49260e-db94-4d6e-bb83-17d760a88d71" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ef7ca9ae-1be6-40e1-a12f-60b668656f5f" />
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a13e91e0-11b3-4554-a697-c2e011b7471c" />
+<img width="1918" height="1079" alt="Screenshot 2025-09-24 233932" src="https://github.com/user-attachments/assets/7d1cdabe-d4da-451f-bdad-784b4a9b1e6c" />
+<img width="1911" height="915" alt="Screenshot 2025-09-24 234152" src="https://github.com/user-attachments/assets/969c900b-e43d-4ddb-b5ea-348af92118cd" />
+<img width="1918" height="903" alt="Screenshot 2025-09-24 234236" src="https://github.com/user-attachments/assets/f1889076-89df-498e-97b4-83ef6744dcc5" />
+
 
 ## Features
 
